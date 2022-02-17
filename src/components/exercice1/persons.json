@@ -1,0 +1,10 @@
+[
+  { "name": "Mike", "gender": "male" },
+  { "name": "Greg", "gender": "male" },
+  { "name": "Juliette", "gender": "female"},
+  { "name": "Sophie", "gender": "female"},
+  { "name": "Bob", "gender": "male"},
+  { "name": "Sarah", "gender": "female"},
+  { "name": "Clara", "gender": "female"},
+  { "name": "Steve", "gender": "male"}
+]
